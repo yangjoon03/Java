@@ -79,7 +79,10 @@ jButton jb = new JButton("버튼");
   jb.addActionListener(this);
 }
 public void actionPerformed(ActionEvent a){
-  jtf.setText(a.getActionCommand());//Component 텍스트 추출출
+  jtf.setText(a.getActionCommand());//Component 텍스트 추출
+  jl.setText("텍스트");
+
+  jl.setIcon(ImageIcon);
 }
 ```
 </details>
