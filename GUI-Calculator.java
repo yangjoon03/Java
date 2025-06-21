@@ -3,7 +3,6 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-
 class BMIPanel extends JPanel implements ActionListener{
 	JLabel jl;
 	JTextField heightField;
