@@ -293,8 +293,7 @@ public class Main {
 </details>
 
 ## 7. GUI
-* 기말고사 시험을 위한 GUI 개발
-* 결론 : 다른 더 좋은 프레임워크가 많음.
+
 <details>
 <summary>A. GUI - Component</summary>
 
@@ -372,6 +371,9 @@ public void actionPerformed(ActionEvent a){
 
 <details>
 <summary><h2>7-1. GUI문제(GPT)</summary>
+
+ * 기말고사 시험을 위한 GUI 개발
+* 결론 : 다른 더 좋은 프레임워크가 많음.
 <details>
 <summary>메모장</summary>
 💻 문제: "간단한 메모장 탭 앱 만들기"
