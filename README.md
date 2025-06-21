@@ -78,6 +78,8 @@ public class Main {
 
 <details>
 <summary><h2>3. 추상화</summary>
+
+ ```java
 abstract class Animal {
     abstract void sound(); // 반드시 자식이 오버라이드해야 함
 
@@ -108,9 +110,8 @@ public class Main {
         a1.breathe(); // Breathing...
     }
 }
-```java
-
 ```
+
 </details>
 
 * 정의: 불필요한 정보는 숨기고 중요한 정보만 노출하는 것.
