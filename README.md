@@ -275,7 +275,22 @@ public class InterfaceTest1 {
 
 필드는 public static final 상수만 가질 수 있음
 
-## 6. 예외 처리
+<details>
+<summary><h2>6. 예외 처리</summary>
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        try {
+            int num = 10 / 0; // 0으로 나누면 예외 발생
+        } catch (ArithmeticException e) {
+            System.out.println("0으로 나눌 수 없습니다.");
+        }
+    }
+}
+
+```
+</details>
 
 ## 7. GUI
 <details>
