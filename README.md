@@ -404,6 +404,17 @@ JTabbedPane을 사용하여 여러 개의 메모장을 탭으로 전환할 수 �
 상단에 JTextField로 할 일을 입력하고 [추가] 버튼을 누르면 아래 리스트에 항목 추가
 추가된 항목은 JList나 DefaultListModel로 표시
 항목을 선택하고 [삭제] 버튼을 누르면 삭제됨
+
+
+ -동적으로 처리해야해서 시험범위 외의 영역으로 구현X
+</details>
+
+<details>
+<summary>회원가입 폼</summary>
+💻 문제 3: "간단한 회원가입 폼"
+사용자 정보 입력 폼 만들기:
+이름 (JTextField), 성별 (JRadioButton), 관심사 (JCheckBox), 자기소개 (JTextArea)
+[제출] 버튼을 누르면 다이얼로그로 입력 결과 요약 출력 (JOptionPane)
 </details>
 	
 </details>
