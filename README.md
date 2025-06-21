@@ -392,6 +392,15 @@ JTabbedPane을 사용하여 여러 개의 메모장을 탭으로 전환할 수 �
 -계산기는 실제 계산은 되지 않음., BMI는 계산 가능.
 	
 </details>
+
+
+<details>
+<summary>To-Do List</summary>
+💻 문제 1: "할 일 목록 앱 (To-Do List)"
+상단에 JTextField로 할 일을 입력하고 [추가] 버튼을 누르면 아래 리스트에 항목 추가
+추가된 항목은 JList나 DefaultListModel로 표시
+항목을 선택하고 [삭제] 버튼을 누르면 삭제됨
+</details>
 	
 </details>
 
