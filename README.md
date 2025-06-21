@@ -1,4 +1,6 @@
 # Java
+* 기말고사 시험을 위한 GUI 개발
+* 결론 : 다른 더 좋은 프레임워크가 많음.
 
 <details>
 <summary><h2>1. 상속</summary>
