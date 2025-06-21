@@ -12,6 +12,7 @@ class NotePadArea extends JPanel {
     }
 }
 
+
 class NotePadMenu extends JFrame implements ActionListener{
 	JMenuItem newfile;
 	JTabbedPane jtp;
