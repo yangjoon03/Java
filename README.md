@@ -377,6 +377,15 @@ public void actionPerformed(ActionEvent a){
 JTabbedPane을 사용하여 여러 개의 메모장을 탭으로 전환할 수 있는 GUI 프로그램을 만들어보세요. 각 탭은 독립적인 텍스트 영역(TextArea)을 가지고 있어야 하며, 사용자가 탭을 바꾸면 그 탭의 메모 내용을 볼 수 있어야 합니다.
 	
 </details>
+
+
+<details>
+<summary>계산기</summary>
+💻 문제: "계산기 탭 앱 만들기"
+설명
+이번엔 탭마다 다른 기능을 하는 다기능 계산기 GUI를 만들어볼 거야. 각 탭마다 다른 계산 기능을 수행하도록 구성해보자.
+	
+</details>
 	
 </details>
 
