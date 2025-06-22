@@ -416,7 +416,18 @@ JTabbedPane을 사용하여 여러 개의 메모장을 탭으로 전환할 수 �
 이름 (JTextField), 성별 (JRadioButton), 관심사 (JCheckBox), 자기소개 (JTextArea)
 [제출] 버튼을 누르면 다이얼로그로 입력 결과 요약 출력 (JOptionPane)
 </details>
-	
+
+
+<details>
+<summary>퀴즈 게임 앱</summary>
+💻 문제 7: "퀴즈 게임 앱"
+화면에 퀴즈 문제와 보기(라디오 버튼들) 표시
+[다음] 버튼을 누르면 다음 문제로 이동
+마지막 문제 후 결과 점수 출력
+JTabbedPane을 이용해 “문제 탭”, “결과 탭” 나누기 (보너스)
+</details>
+
+
 </details>
 
 
